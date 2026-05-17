@@ -56,11 +56,11 @@ To view or test this script, you must manually execute the Python source code in
 
 2\. Install Python: Ensure Python 3.x is installed inside the guest VM.
 
-3\. Download the Script : Copy the raw text of scipt.py into the VM.
+3\. Download the Script : Copy the raw text of script.py into the VM.
 
 4\. Open Terminal as Admin : Open PowerShell or Command Prompt as an Administrator inside the VM.
 
-4\. Run the Script : Navigate to your folder and open the program using commands.
+5\. Run the Script : Navigate to your folder and open the program using commands.
 
 
 
